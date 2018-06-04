@@ -7,7 +7,7 @@
 
 * Organization is top to bottom, left to right
 
-
+\\[ c= \sqrt{a^2+b^2} \\]
 
 
 -horizontal-
